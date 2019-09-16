@@ -19,4 +19,4 @@ the only requirements is
 pip install redis
 ```
 
-ref : ![how to install redis-server](https://img.shields.io/aur/license/pac)
+ref : ![how to install redis-server](https://redis.io/topics/quickstart)
