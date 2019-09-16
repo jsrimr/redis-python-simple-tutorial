@@ -12,7 +12,11 @@
 6. Bitmap
 7. Hyperloglog
 
+Install and run redis-server and run the code!
+
 the only requirements is
 ```shell
 pip install redis
 ```
+
+ref : ![how to install redis-server](https://img.shields.io/aur/license/pac)
